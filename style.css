@@ -106,7 +106,7 @@ ul li:hover{
     
 }
 
-@media (min-width : 475px){
+@media screen and (min-width : 475px){
     .navbar{
         display : none;
     }
@@ -125,7 +125,7 @@ ul li:hover{
     }
 }
 
-@media (min-width : 640px){
+@media screen and (min-width : 640px){
     .navbar{
         display : none;
     }
@@ -145,7 +145,7 @@ ul li:hover{
 
 }
 
-@media (min-width : 768px){
+@media screen and  (min-width : 768px){
     .navbar{
         display: none;
     }
@@ -161,7 +161,7 @@ ul li:hover{
     }
 }
 
-@media ( min-width : 1024px ){
+@media screen and  ( min-width : 1024px ){
     .navbar{
         display : block;
     }
